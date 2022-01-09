@@ -1,0 +1,3 @@
+
+
+Abrir directo "Administrador de tareas":   control + shift + esc. 
